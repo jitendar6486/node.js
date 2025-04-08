@@ -1,4 +1,4 @@
-const express = require("express");
+wconst express = require("express");
 const app = express();
  
 
@@ -22,4 +22,9 @@ brand: "kashmiri",
 i am khwaja nawaz i am trying a new code today 
 =======
 just trying 
+<<<<<<< HEAD
 >>>>>>> db05bc9fb0d3a39f5f137d0ad28d2f250ad902b1
+=======
+i am ready 
+i amde the change 
+>>>>>>> 2111cfdba829ca3710447fe2672691692d63a889
